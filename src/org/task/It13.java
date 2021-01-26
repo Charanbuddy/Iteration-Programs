@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class It13 {
 
-	public static void CountOfDigits() {
+	public static void main(String[] args) {
 
 		// Count of digits in a number
 
@@ -19,5 +19,4 @@ public class It13 {
 		}
 		System.out.println("Number of Digits present: " + count);
 	}
-
 }

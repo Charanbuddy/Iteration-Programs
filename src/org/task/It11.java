@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class It11 {
 
-	public static void SumOfSigits() {
+	public static void main(String[] args) {
+
 		// sum of Digits in a Number
 
 		Scanner sc = new Scanner(System.in);

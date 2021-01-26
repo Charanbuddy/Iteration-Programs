@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class It12 {
 
-	public static void MultiplicationOfDigits() {
+	public static void main(String[] args) {
 
 		// Multiplication of Digits in a given Number
 
@@ -23,6 +23,5 @@ public class It12 {
 		System.out.println("Multiplication of the given Number: " + revNumber);
 
 	}
-
 
 }

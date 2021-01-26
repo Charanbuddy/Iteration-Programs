@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 public class It27 {
 
-	public static void SortTheElementsInArray() {
+	public static void main(String[] args) {
+		// Sort The Elements In Array
 
 		int[] a = { 1, 9, 8, 4, 5, 2, 6 };
 
@@ -22,5 +23,4 @@ public class It27 {
 		}
 
 	}
-
 }

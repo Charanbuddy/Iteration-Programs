@@ -22,6 +22,11 @@ public class It17 {
 			}
 
 		}
+	}
 
+	public static void main(String[] args) {
+
+		ArmstrongNumber(153);
+		ArmstrongNumber(123);
 	}
 }

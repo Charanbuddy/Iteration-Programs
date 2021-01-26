@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class It09 {
 
-	public static void SumOfOdd() {
+	public static void main(String[] args) {
 
 		// To print the sum of odd and even in 100
 
@@ -28,5 +28,4 @@ public class It09 {
 		System.out.println("Total count of odd Numbers: " + b);
 
 	}
-
 }

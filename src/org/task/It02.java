@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class It02 {
 
-	public static void OddNumber() {
+	public static void main(String[] args) {
 
 		// To print odd number from 1 to 10
 

@@ -3,8 +3,8 @@ package org.task;
 import java.util.Scanner;
 
 public class It07 {
-	
-	public static void EvenSum() {
+
+	public static void main(String[] args) {
 
 		// Print the even sum 1 to 90
 
@@ -20,5 +20,4 @@ public class It07 {
 
 		System.out.println("Sum of Even Numbers: " + a);
 	}
-
 }

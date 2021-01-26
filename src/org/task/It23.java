@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class It23 {
 
-	public static void FactrorialOfaNumber() {
+	public static void main(String[] args) {
 
 		// Factorial of a Number
 
@@ -19,4 +19,5 @@ public class It23 {
 		}
 		System.out.println("factorial of a number: " + res);
 	}
+
 }

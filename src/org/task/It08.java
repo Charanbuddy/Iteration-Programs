@@ -3,8 +3,7 @@ package org.task;
 import java.util.Scanner;
 
 public class It08 {
-
-	public static void OddSum() {
+	public static void main(String[] args) {
 
 		// Print the odd sum 1 to 80
 

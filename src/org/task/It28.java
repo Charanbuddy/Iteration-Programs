@@ -4,8 +4,11 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class It28 {
+	
+public static void main(String[] args) {
+	
 
-	public static void SortTheElementsInArrayWithoutPredefinedMethods() {
+	//public static void SortTheElementsInArrayWithoutPredefinedMethods() {
 
 // Without using predefined methods sort the elements in array in ascending order
 
@@ -25,7 +28,7 @@ public class It28 {
 
 		System.out.println("After Sorting in ascending order: ");
 		for (int i : a) {
-			System.out.println(i + "\t");
+			System.out.print(i + "\t");
 		}
 	}
 

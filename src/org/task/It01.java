@@ -4,7 +4,10 @@ import java.util.Scanner;
 
 public class It01 {
 
-	public static void EvenOrOdd() {
+public static void main(String[] args) {
+	
+
+	//public static void EvenOrOdd
 
 		// To find the Even or Odd
 

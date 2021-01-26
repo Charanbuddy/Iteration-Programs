@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class It14 {
 
-	public static void CheckTheNumberIsPalindrome() {
+	public static void main(String[] args) {
 
 		// To check the Number is Palindrome
 

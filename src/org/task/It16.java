@@ -3,7 +3,8 @@ package org.task;
 import java.util.Scanner;
 
 public class It16 {
-	public static void ReverseSringTypeConversion() {
+
+	public static void main(String[] args) {
 
 		// To reverse a string using type conversion(String to Integer Conversion)
 

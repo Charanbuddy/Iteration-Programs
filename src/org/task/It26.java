@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class It26 {
 
-	public static void SwappingUsingTempvariable() {
+	public static void main(String[] args) {
+		// Swapping Using Temp variable
 
 		int a = 10, b = 20;
 		System.out.println("Before Swapping:");
@@ -19,5 +20,4 @@ public class It26 {
 		System.out.println("a=" + a);
 		System.out.println("b=" + b);
 	}
-
 }

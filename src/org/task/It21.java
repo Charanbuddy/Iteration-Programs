@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class It21 {
 
-	public static void ReverseAStringChraracterWithWord() {
+	public static void main(String[] args) {
+
+		// Reverse a String Character With Word() {
 
 		// Expected output="emoclew ot avaj ssalc "
 

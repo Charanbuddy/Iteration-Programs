@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class It03 {
 
-	public static void EvenNumber() {
+	public static void main(String[] args) {
 
 		// To find the even Number from 1 to 600
 

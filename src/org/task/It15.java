@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class It15 {
 
-	public static void ReverseNumberTypeConversion() {
+	public static void main(String[] args) {
 
-//reverse a number using type conversion (Integer to string conversion) 
+		// reverse a number using type conversion (Integer to string conversion)
 
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Type a number: " + sc);
@@ -26,4 +26,5 @@ public class It15 {
 		int no = Integer.parseInt(res);
 		System.err.println(no);
 	}
+
 }

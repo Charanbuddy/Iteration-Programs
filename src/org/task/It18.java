@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class It18 {
 
-	public static void ReverseAString1() {
+	public static void main(String[] args) {
+
+		// Reverse a String1
 
 		String name = "Java";
 		String rev = "";
@@ -15,4 +17,5 @@ public class It18 {
 		}
 
 	}
+
 }

@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class It22 {
 
-	public static void FirstLetterOfTheWordWillBeCapital() {
+	public static void main(String[] args) {
+
+		// First Letter Of The Word Will Be Capital
 
 		// Expected output="Welcome To Java Class"
 
@@ -25,5 +27,4 @@ public class It22 {
 		System.out.println(output);
 
 	}
-
 }

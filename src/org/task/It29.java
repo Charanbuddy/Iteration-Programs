@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 public class It29 {
 
-	public static void SortTheElementsInArrayWithoutPredefinedMethods() {
+	public static void main(String[] args) {
+// Sort The Elements In Array Without Predefined Methods
 
 // Without using predefined methods sort the elements in array in descending order
 
@@ -25,8 +26,7 @@ public class It29 {
 
 		System.out.println("After Sorting in Descending order: ");
 		for (int i : a) {
-			System.out.println(i + "\t");
+			System.out.print(i + "\t");
 		}
 	}
-
 }

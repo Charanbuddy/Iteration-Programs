@@ -3,7 +3,9 @@ package org.task;
 import java.util.Scanner;
 
 public class It10 {
-	private void ReverseTheNumber() {
+
+	public static void main(String[] args) {
+
 		// Reverse the Number (n=123)
 
 		Scanner sc = new Scanner(System.in);
